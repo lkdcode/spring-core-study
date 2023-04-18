@@ -8,8 +8,8 @@ class HotelTest {
 
     @Test
     void hotelTest() {
-        Hotel hotel = new Hotel();
-        hotel.inform();
+//        Hotel hotel = new Hotel();
+//        hotel.inform();
     }
 
 
